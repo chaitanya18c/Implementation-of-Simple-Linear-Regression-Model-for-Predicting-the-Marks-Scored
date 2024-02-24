@@ -67,30 +67,31 @@ print("Root Mean Square Error =",rmse)
 ```
 ## Output:
     
-### df.head():
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/cf811a1d-04c7-416b-8438-88898d9291b7" width=10%>
+### Head:
+![307491335-cf811a1d-04c7-416b-8438-88898d9291b7](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/9bf1bf11-d689-470e-b2d9-f717a217829e)
 
-### df.tail():
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/31aa089a-4517-4beb-bcb7-40f594ce0f5f" width=10%>
+### Tail:
+![307491536-31aa089a-4517-4beb-bcb7-40f594ce0f5f](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/de8ad15b-0b4b-4d3a-9e54-d1513fc3282b)
 
 ### X and Y values:
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/fa8422c0-8ee6-4539-a2a6-d3292e9eb5ba" width="15%" height="2%">
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/ad2b7243-57f6-41d2-be58-72522fc08764">
+![307491864-fa8422c0-8ee6-4539-a2a6-d3292e9eb5ba](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/49099f22-15f7-4b2a-a604-d58e0c594f0b)
+
+![307491894-ad2b7243-57f6-41d2-be58-72522fc08764](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/3867043f-28d5-4a68-861b-ecb58cc06fbe)
 
 ### Values of Y Prediction:
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/c478e878-44b3-46e8-8701-1e756ea00ccd">
+![307492250-c478e878-44b3-46e8-8701-1e756ea00ccd](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/6c9199be-890d-46b5-850a-dd3f577e8d8b)
 
 ### Values of Y Test:
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/248564b6-f52c-44d1-9114-285ce185f398">
+![307492268-248564b6-f52c-44d1-9114-285ce185f398](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/5ebb553f-e7b3-4f12-8d04-3c09f3a450e9)
 
 ### Training Set:
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/a781aafb-8ef4-4911-8ad9-77ae5fd4a4a3" width=25%>
+![image](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/8dbfe716-e304-4848-85eb-b7e6f5cf0bf0)
 
 ### Test Set:
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/626473d3-1c5a-40f8-a3c9-15749751129a" width=25%>
+![image](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/edbdfe59-435f-487d-9921-c5017da23f71)
 
 ### Error Calculation:
-<img src="https://github.com/Janarthanan2/ML_Ex02_Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393515/bb1cba4b-1442-445f-8491-f097661f0813" width=25%>
+![image](https://github.com/chaitanya18c/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119392724/426c3c6e-b3af-45ad-88d7-a7f22d8afcdc)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
